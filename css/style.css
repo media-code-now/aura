@@ -543,7 +543,7 @@ color: #b8bfc3;
     color: #fff;
 }
 .second-header a,.second-header span{
-    color: #FFE8C5;
+    color: #FFFAF3;
 }
 .second-header a:hover{
     color: #fff;
@@ -754,7 +754,7 @@ margin-right: -227px;
     top: 10px;
     bottom: 10px;
     border-radius: 10px;
-  background-color: rgb(255, 207, 153);
+  background-color: #E6D8C1;
   box-shadow: 2.5px 4.33px 15px 0px rgba(250, 162, 146, 0.4);
     color: #fff;
    
@@ -1038,10 +1038,10 @@ color: #fff;}
     left: 10px;
     top: 10px;
     bottom: 10px;
-    background: #FFE8C5;
+    background: #FFFAF3;
     padding: 10px 15px;
     border-radius: 10px;
-    color: #fff;
+    color: #B68F55;
 }
 .btn.ss-btn.active {background: #181E23;border: 2px solid #181E23;
 color: #fff;}
@@ -1346,7 +1346,7 @@ width: 50%;
     margin-right: 22px;
 }
 .ab-coutner .single-counter {
-    background-color: rgb(255, 207, 153);
+    background-color: #E6D8C1;
     box-shadow: 2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.15);
      border-radius: 10px;
     padding: 70px 0;
@@ -2844,7 +2844,7 @@ margin: 20px;
 }
 .testimonial-active .slick-slide{position: relative;
 border-radius: 20px;
-background-color: rgb(255, 245, 244);
+background-color: #FFFAF3;
 padding: 50px;
 margin: 0 15px;}
 
@@ -2908,7 +2908,7 @@ margin-top: 50px;
 .testimonial-active .slick-dots .slick-active button {
    width: 40px;
 border-radius: 5px;
-     background-color:rgb(255, 207, 153);
+     background-color:#E6D8C1;
 }
 .testimonial-active .qt-img {
     position: absolute;
@@ -3025,7 +3025,7 @@ border-radius: 5px;
 .testimonial-active2 .slick-dots .slick-active button {
    width: 40px;
 border-radius: 5px;
-     background-color: rgb(255, 207, 153);
+     background-color: #E6D8C1;
 }
 .testimonial-area .test-an-01{
     position: absolute;
@@ -3296,7 +3296,7 @@ left: 0;
     z-index: 1;
 }
 .blog-area .single-post2 {
-    border: 5px solid #fff5f4;
+    border: 5px solid #FFFAF3;
     border-radius: 10px; 
 }
 .blog-content2 .b-meta{
@@ -3552,7 +3552,7 @@ margin-top: 60px;
 }
 .pricing-btn .btn.ss-btn{
    border-radius: 10px;
-background-color: rgb(255, 207, 153);
+background-color: #E6D8C1;
 box-shadow: 2.5px 4.33px 15px 0px rgba(250, 162, 146, 0.4);
 color: #fff;
 border-color: #4CC3C1;
@@ -3644,12 +3644,12 @@ border: 10px solid #eee;
 }
 .pricing-box.active .price-count h2{color: #4cc3c1;}
 .pricing-box.active .pricing-btn .btn { border-radius: 10px;
-  background-color: rgb(255, 207, 153);
+  background-color: #E6D8C1;
   box-shadow: 2.5px 4.33px 15px 0px rgba(250, 162, 146, 0.4);color: #fff;border-color: #4CC3C1;}
 
 .pricing-box{
     border-width: 10px;
-  border-color: rgb(255, 245, 244);
+  border-color: #FFFAF3;
   border-style: solid;
   border-radius: 10px;
   background-color: rgb(255, 255, 255);
@@ -3824,7 +3824,7 @@ border-radius: 10px;
 .f-contact {
 display: flex;
 padding: 30px;
-    background-color: rgb(255, 245, 244);
+    background-color: #FFFAF3;
 box-shadow: 2.5px 4.33px 15px 0px rgba(0, 0, 0, 0.15);
 }
 .f-contact a{
@@ -3880,13 +3880,13 @@ display: inline-block;
 margin-left: 5px;
 height: 35px;
 width: 35px;
-background: #fff5f4;
+background: #FFFAF3;
 text-align: center;
 line-height: 35px;
 border-radius: 50%;
 color: #B68F55 !important;
 }
-.footer-social a:hover{background: rgb(255, 207, 153); color: #fff !important;}
+.footer-social a:hover{background: #E6D8C1; color: #fff !important;}
 .f-widget-title h2 {
 	font-size: 20px;
 margin-bottom: 30px;
@@ -3950,7 +3950,7 @@ background: url('../img/bg/f-line.png') no-repeat;
 .f-insta ul li:hover a::before{top: 50%;opacity: 1;}
 .f-insta ul li:hover a::after{opacity: .6;}
 .copyright-wrap {
-  background: #FFF5F4;
+  background: #FFFAF3;
 padding: 15px 0;
 color: #201E1A;
     font-size: 15px;
@@ -3964,7 +3964,7 @@ color: #201E1A;
     text-align: center;
     border-radius: 50%;
     float: left;
-  background-color: rgb(255, 207, 153);
+  background-color: #E6D8C1;
   box-shadow: 2.5px 4.33px 15px 0px rgba(250, 162, 146, 0.4);
 }
 
@@ -7311,8 +7311,8 @@ text-align: right;
 
 .case-study-content {
    padding: 30px;
-background: #FFF5F4 0% 0% no-repeat padding-box;
-box-shadow: 0px 16px 32px #FFF5F4;
+background: #FFFAF3 0% 0% no-repeat padding-box;
+box-shadow: 0px 16px 32px #FFFAF3;
 }
 .case-study-content span{
    margin-bottom: 10px;
@@ -8325,7 +8325,7 @@ overflow: hidden;
 	font-size: 14px;
 }
 .avatar__wrap {
-	background: #fff5f4;
+	background: #FFFAF3;
 	padding: 50px 80px;
 	float:left;
 	width:100%;

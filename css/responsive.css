@@ -300,11 +300,11 @@ padding: 16px 27px;
     margin-top: -56px;
 }
     .slider-active .slick-track::before {
-    background: #fff5f4;
+    background: #FFFAF3;
 }
     .services-area {
     background: none !important;
-    background-color: #fff5f4 !important;
+    background-color: #FFFAF3 !important;
 }
     .s-about-img.p-relative {
     margin-bottom: 50px;
@@ -603,7 +603,7 @@ margin-bottom: 90px;
     }
        .services-area {
     background: none !important;
-    background-color: #fff5f4 !important;
+    background-color: #FFFAF3 !important;
 }
     .header-btn {
     position: relative;
@@ -652,7 +652,7 @@ margin-bottom: 90px;
     margin-right: 0;
 }
     .slider-active .slick-track::before {
-    background: #fff5f4;
+    background: #FFFAF3;
 }
     
     #feature-top {
